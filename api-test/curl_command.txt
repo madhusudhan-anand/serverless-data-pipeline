@@ -1,0 +1,4 @@
+curl -X POST https://<api-id>.execute-api.us-east-1.amazonaws.com/StoreSensorData \
+  -H "Content-Type: application/json" \
+  -d '{"temperature": 72, "humidity": 45}'
+
