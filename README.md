@@ -99,7 +99,7 @@ TBLPROPERTIES ('has_encrypted_data'='false');
 
 ## 📊 Dashboard Sample (QuickSight)
 
-<img src="sample-output/quicksight-chart.png" width="600"/>
+See Screenshots folder
 
 ---
 
